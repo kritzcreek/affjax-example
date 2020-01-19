@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: inline-block;
+  font-family: Consolas, monospace;
+}
